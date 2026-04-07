@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Max Anarhistov
-- 👀 I’m backend PHP developer
-- 🌱 I’m currently learning microservice architecrure
+- 👀 I’m backend developer
+- 🌱 I’m currently learning architecrure
